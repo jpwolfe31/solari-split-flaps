@@ -6,6 +6,6 @@ The split-flaps were acquired on eBay in April of 2023.  We were told they were 
 ![IMG_9918](https://github.com/jpwolfe31/solari-split-flap/assets/50466244/900bf3ce-2a8a-4b4d-8d89-699e6064b2ae)
 
 # more
-See code folder above for code, schematics, build information and historic technical documents.
+See folders above for code, schematics, build information and historic technical documents.
 
 
