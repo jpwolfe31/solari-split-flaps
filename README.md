@@ -1,5 +1,5 @@
 # solari-split-flaps
-Information on the Solari split-flap and its operation
+Information, designs and code to operate a Solari split-flap display.
 
 The split-flaps were acquired on eBay in April of 2023.  We were told they were installed at an airport in the 1960s and removed about 20 years ago.  This represents a small portion of the original display.  The electronics that control the display are new and contained in the black box next to the time display.  To see the display in operation go to https://www.youtube.com/watch?v=Qq5hUmP4TP0.
 
